@@ -266,6 +266,25 @@ footer form {
   }
 }
 
+@media (max-width: 240px) {
+  .services {
+    height: 115px;
+    width: 170px;
+  }
+
+  .services svg {
+    height: 70px;
+  }
+
+  #mail-spot-button {
+    width: 50%;
+  }
+
+  #social-media {
+    width: 60%;
+  }
+}
+
 @media (max-width: 991px) {
   #header-container {
     width: 100%;
