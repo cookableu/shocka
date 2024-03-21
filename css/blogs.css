@@ -504,6 +504,16 @@ footer form {
   }
 }
 
+@media (max-width: 240px) {
+  #mail-spot-button {
+    width: 50%;
+  }
+
+  #social-media {
+    width: 60%;
+  }
+}
+
 @media (min-width: 991px) {
   #header-container {
     width: 100%;
