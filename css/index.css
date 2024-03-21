@@ -691,6 +691,25 @@ footer form {
   }
 }
 
+@media (max-width: 240px) {
+  main p {
+    width: 80%;
+  }
+
+  .services {
+    height: 100px;
+    width: 200px;
+  }
+
+  #mail-spot-button {
+    width: 50%;
+  }
+
+  #social-media {
+    width: 60%;
+  }
+}
+
 @media (min-width: 991px) {
   #header-container {
     width: 100%;
