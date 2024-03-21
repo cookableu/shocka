@@ -597,8 +597,8 @@ footer form {
   .contact-section input,
   .contact-section textarea {
     width: 80%;
-    padding: 6px;
-    font-size: 12px;
+    padding: 8px;
+    font-size: 14px;
   }
 
   footer {
