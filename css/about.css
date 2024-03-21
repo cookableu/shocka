@@ -244,16 +244,6 @@ footer form {
   width: 25px;
 }
 
-@media (max-width: 240px) {
-  #mail-spot-button {
-    width: 50%;
-  }
-
-  #social-media {
-    width: 60%;
-  }
-} 
-
 @media (max-width: 991px) {
   #header-container {
     width: 100%;
@@ -465,6 +455,16 @@ footer form {
     width: 20px;
   }
 }
+
+@media (max-width: 240px) {
+  #mail-spot-button {
+    width: 50%;
+  }
+
+  #social-media {
+    width: 60%;
+  }
+} 
 
 @media (max-width: 800px) {
   .partition {
