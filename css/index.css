@@ -408,6 +408,18 @@ footer form {
   width: 25px;
 }
 
+#copyright {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+#copyright a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
 @media (max-width: 991px) {
   #header-container {
     width: 100%;
